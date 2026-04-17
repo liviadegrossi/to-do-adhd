@@ -17,3 +17,7 @@
 - User can export tasks as CSV, JSON, ...
 - User can add tags to a task and filter tasks based on these tags
 - Unit or integration tests for (some of) the functionality
+
+## User interface
+
+The user interface is inspired by the design by [Sun Grg](https://www.figma.com/@sungrg), which is available on [Figma](https://www.figma.com/community/file/1358477027647527963)
