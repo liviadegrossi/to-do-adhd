@@ -20,4 +20,4 @@
 
 ## User interface
 
-The user interface is inspired by the design by [Sun Grg](https://www.figma.com/@sungrg), which is available on [Figma](https://www.figma.com/community/file/1358477027647527963)
+The user interface is inspired by the design by [Sundar Gurung](https://www.figma.com/@sungrg), which is available on [Figma](https://www.figma.com/community/file/1358477027647527963)
